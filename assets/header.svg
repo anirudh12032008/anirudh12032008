@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#12324a" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="t" x1="0" x2="1">
+      <stop offset="0" stop-color="#00f5d4"/><stop offset=".5" stop-color="#7b61ff"/><stop offset="1" stop-color="#ff4ecd"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      .w{stroke-dasharray:2400;stroke-dashoffset:2400;animation:d 4s linear infinite}
+      .s{stroke-dasharray:2400;stroke-dashoffset:2400;animation:d 4s linear infinite 1s}
+      @keyframes d{to{stroke-dashoffset:0}}
+      .c{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+      .n{animation:gl 3s infinite}
+      @keyframes gl{0%,92%,100%{transform:none}93%{transform:translate(-4px,1px)}95%{transform:translate(4px,-1px)}97%{transform:translate(-2px,0)}}
+    </style>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="#060d16"/>
+  <rect width="1200" height="320" rx="18" fill="url(#g)"/>
+  <!-- analog trace -->
+  <path class="w" filter="url(#glow)" fill="none" stroke="#00f5d4" stroke-width="2.5" opacity=".75"
+    d="M0 250 C50 210 100 210 150 250 S250 290 300 250 S400 210 450 250 S550 290 600 250 S700 210 750 250 S850 290 900 250 S1000 210 1050 250 S1150 290 1200 250"/>
+  <!-- digital trace (clock) -->
+  <path class="s" fill="none" stroke="#ff4ecd" stroke-width="2" opacity=".7"
+    d="M0 60H60V30H120V60H180V30H240V60H300V30H360V60H420V30H480V60H540V30H600V60H660V30H720V60H780V30H840V60H900V30H960V60H1020V30H1080V60H1140V30H1200"/>
+  <text x="60" y="110" class="m" fill="#5c7a99" font-size="18">$ whoami --verbose</text>
+  <g class="n"><text x="60" y="175" class="m" font-size="64" font-weight="800" fill="url(#t)" filter="url(#glow)">ANIRUDH SAHU</text></g>
+  <text x="60" y="215" class="m" font-size="22" fill="#c9d6e3">embedded · EDA / HDL tools · RISC-V · open source<tspan class="c" fill="#00f5d4"> █</tspan></text>
+  <g class="m" font-size="14" fill="#5c7a99" text-anchor="end">
+    <text x="1140" y="110">CH1 analog  ∿</text><text x="1140" y="132">CH2 clk     ⎍</text>
+    <text x="1140" y="154" fill="#00f5d4">17 PRs merged upstream</text>
+  </g>
+</svg>
