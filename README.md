@@ -23,6 +23,13 @@ just trying to get better at building things that I find interesting and are act
 
 lately that means going down to the low level stuff: verilog simulators, debug probes, usb stacks, bootloaders and risc-v. turns out the best way to learn how a tool works is to find where it breaks and fix it :D
 
+### currently
+- 🎓 first year ECE at MANIT Bhopal
+- 📚 halfway through MIT 6.002 because I want to actually get circuits, not just use them
+- ✍️ writing my first research paper (more on that soon!!)
+- 🧩 a leetcode problem every day, thinking it through before I look anything up
+- 🌱 getting ready for GSoC 2027
+
 ### some fixes that got merged
 - **icarus verilog** - [queue writes with `q[$]`](https://github.com/steveicarus/iverilog/pull/1686), [a crash with `?:` on strings](https://github.com/steveicarus/iverilog/pull/1685), [packed struct selects](https://github.com/steveicarus/iverilog/pull/1674), [array address sizing](https://github.com/steveicarus/iverilog/pull/1672)
 - **probe-rs** - [DPv3 target ids](https://github.com/probe-rs/probe-rs/pull/4608), [gdb on RV32E chips like the CH32V003](https://github.com/probe-rs/probe-rs/pull/4599), [MCXN RAM aliases](https://github.com/probe-rs/probe-rs/pull/4547)
@@ -40,6 +47,13 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ## More about me
 -> https://www.anirudhsahu.tech
+
+-> [linkedin](https://www.linkedin.com/in/anirudh-sahu-4b245327b/) if you wanna talk about hardware, open source or literally anything else :D
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anirudh12032008/anirudh12032008/output/snake-dark.svg"/>
+  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/anirudh12032008/anirudh12032008/output/snake.svg"/>
+</picture>
 
 ---
 
