@@ -31,6 +31,9 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 -  getting ready for GSoC 2027
 
 ### some fixes that got merged
+<!-- PRSTATS:START -->
+<!-- PRSTATS:END -->
+
 - **icarus verilog** - [queue writes with `q[$]`](https://github.com/steveicarus/iverilog/pull/1686), [a crash with `?:` on strings](https://github.com/steveicarus/iverilog/pull/1685), [packed struct selects](https://github.com/steveicarus/iverilog/pull/1674), [array address sizing](https://github.com/steveicarus/iverilog/pull/1672)
 - **probe-rs** - [DPv3 target ids](https://github.com/probe-rs/probe-rs/pull/4608), [gdb on RV32E chips like the CH32V003](https://github.com/probe-rs/probe-rs/pull/4599), [MCXN RAM aliases](https://github.com/probe-rs/probe-rs/pull/4547)
 - **tinyusb** - [iso endpoint checks](https://github.com/hathach/tinyusb/pull/4361), [STM32F401 blackpill](https://github.com/hathach/tinyusb/pull/4368), [oversized network frames](https://github.com/hathach/tinyusb/pull/4369)
