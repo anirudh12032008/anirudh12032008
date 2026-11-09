@@ -32,6 +32,16 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
+**55** PRs merged into **22** repos · **32** open right now
+
+latest ones:
+- [steveicarus/iverilog#1724](https://github.com/steveicarus/iverilog/pull/1724) Support virtual methods (2026-11-08)
+- [ghdl/ghdl#3477](https://github.com/ghdl/ghdl/pull/3477) VPI: support VHDL records (vpiStructNet / vpiMember) (2026-11-08)
+- [nickg/nvc#1731](https://github.com/nickg/nvc/pull/1731) Fix crash with Verilog user function call or cast as system task argument (2026-11-07)
+- [steveicarus/iverilog#1715](https://github.com/steveicarus/iverilog/pull/1715) Support replication and nested braces in assignment patterns (2026-11-06)
+- [steveicarus/iverilog#1697](https://github.com/steveicarus/iverilog/pull/1697) Support passing a queue to a function (2026-11-06)
+
+<sub>updates by itself every few hours</sub>
 <!-- PRSTATS:END -->
 
 - **icarus verilog** - [queue writes with `q[$]`](https://github.com/steveicarus/iverilog/pull/1686), [a crash with `?:` on strings](https://github.com/steveicarus/iverilog/pull/1685), [packed struct selects](https://github.com/steveicarus/iverilog/pull/1674), [array address sizing](https://github.com/steveicarus/iverilog/pull/1672)
