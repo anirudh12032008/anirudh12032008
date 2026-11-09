@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120"><style>
+text{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#24292f}
+.mut{fill:#57606a}.bg{fill:#ffffff;stroke:#d0d7de}
+@media (prefers-color-scheme:dark){text{fill:#e6edf3}.mut{fill:#8d96a0}.bg{fill:#0d1117;stroke:#30363d}}
+</style>
+<rect class="bg" x=".5" y=".5" width="599" height="119" rx="10"/>
+<text x="30" y="32" font-size="14" font-weight="600">what I write the most</text>
+<rect x="30.0" y="46" width="242.5" height="10" rx="2" fill="#2da44e"/>
+<rect x="274.5" y="46" width="201.3" height="10" rx="2" fill="#0969da"/>
+<rect x="477.8" y="46" width="62.3" height="10" rx="2" fill="#bf3989"/>
+<rect x="542.1" y="46" width="5.8" height="10" rx="2" fill="#d4a72c"/>
+<rect x="549.9" y="46" width="3.6" height="10" rx="2" fill="#8250df"/>
+<rect x="555.5" y="46" width="3.2" height="10" rx="2" fill="#cf222e"/>
+<rect x="560.7" y="46" width="3.2" height="10" rx="2" fill="#1b7c83"/>
+<rect x="565.8" y="46" width="2.2" height="10" rx="2" fill="#6e7781"/>
+<circle cx="35" cy="76" r="5" fill="#2da44e"/><text x="45" y="80" font-size="12">TypeScript <tspan class="mut">45%</tspan></text>
+<circle cx="170" cy="76" r="5" fill="#0969da"/><text x="180" y="80" font-size="12">Python <tspan class="mut">38%</tspan></text>
+<circle cx="305" cy="76" r="5" fill="#bf3989"/><text x="315" y="80" font-size="12">JavaScript <tspan class="mut">12%</tspan></text>
+<circle cx="440" cy="76" r="5" fill="#d4a72c"/><text x="450" y="80" font-size="12">EJS <tspan class="mut">1%</tspan></text>
+<circle cx="35" cy="96" r="5" fill="#8250df"/><text x="45" y="100" font-size="12">C++ <tspan class="mut">1%</tspan></text>
+<circle cx="170" cy="96" r="5" fill="#cf222e"/><text x="180" y="100" font-size="12">Ren'Py <tspan class="mut">1%</tspan></text>
+<circle cx="305" cy="96" r="5" fill="#1b7c83"/><text x="315" y="100" font-size="12">PLpgSQL <tspan class="mut">1%</tspan></text>
+<circle cx="440" cy="96" r="5" fill="#6e7781"/><text x="450" y="100" font-size="12">SystemVerilog <tspan class="mut">1%</tspan></text>
+</svg>

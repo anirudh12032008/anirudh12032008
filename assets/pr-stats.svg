@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190"><style>
+text{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#24292f}
+.mut{fill:#57606a}.bg{fill:#ffffff;stroke:#d0d7de}
+@media (prefers-color-scheme:dark){text{fill:#e6edf3}.mut{fill:#8d96a0}.bg{fill:#0d1117;stroke:#30363d}}
+</style>
+<rect class="bg" x=".5" y=".5" width="599" height="189" rx="10"/>
+<text x="100" y="70" text-anchor="middle" font-size="40" font-weight="700">55</text><text class="mut" x="100" y="96" text-anchor="middle" font-size="14">PRs merged</text>
+<text x="300" y="70" text-anchor="middle" font-size="40" font-weight="700">22</text><text class="mut" x="300" y="96" text-anchor="middle" font-size="14">repos</text>
+<text x="500" y="70" text-anchor="middle" font-size="40" font-weight="700">32</text><text class="mut" x="500" y="96" text-anchor="middle" font-size="14">open right now</text>
+<rect x="30.0" y="120" width="158.5" height="10" rx="2" fill="#2da44e"/>
+<rect x="190.5" y="120" width="100.2" height="10" rx="2" fill="#0969da"/>
+<rect x="292.7" y="120" width="100.2" height="10" rx="2" fill="#bf3989"/>
+<rect x="394.9" y="120" width="85.6" height="10" rx="2" fill="#d4a72c"/>
+<rect x="482.4" y="120" width="41.8" height="10" rx="2" fill="#8250df"/>
+<rect x="526.2" y="120" width="41.8" height="10" rx="2" fill="#cf222e"/>
+<circle cx="35" cy="148" r="5" fill="#2da44e"/><text x="45" y="152" font-size="12">iverilog <tspan class="mut">11</tspan></text>
+<circle cx="215" cy="148" r="5" fill="#0969da"/><text x="225" y="152" font-size="12">flavortown <tspan class="mut">7</tspan></text>
+<circle cx="395" cy="148" r="5" fill="#bf3989"/><text x="405" y="152" font-size="12">highway <tspan class="mut">7</tspan></text>
+<circle cx="35" cy="168" r="5" fill="#d4a72c"/><text x="45" y="172" font-size="12">nvc <tspan class="mut">6</tspan></text>
+<circle cx="215" cy="168" r="5" fill="#8250df"/><text x="225" y="172" font-size="12">probe-rs <tspan class="mut">3</tspan></text>
+<circle cx="395" cy="168" r="5" fill="#cf222e"/><text x="405" y="172" font-size="12">tinyusb <tspan class="mut">3</tspan></text>
+</svg>
