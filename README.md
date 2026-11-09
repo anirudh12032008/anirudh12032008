@@ -4,6 +4,12 @@
 
 not in a "i'll try this once and move on" way but in a "i'll stay with it long enough to understand how it works" way. I usually start without knowing everything and figure it out as I go!
 
+<p align="center">
+  <img src="assets/pr-stats.svg" alt="live open source PR stats" width="600"/>
+  <br/>
+  <img src="assets/languages.svg" alt="languages I write the most" width="600"/>
+</p>
+
 ### over the time things turned into a mix of things:
 - building random hardware stuff like a rover, macropad, pcbs and a ECG machine
 - mentoring students and working on research

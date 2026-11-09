@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [.github/scripts/prstats.py, .github/workflows/prstats.yml]
+    paths: [.github/scripts/prstats.py, .github/workflows/prstats.yml, README.md]
 
 permissions:
   contents: write
@@ -21,8 +21,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USER_LOGIN: ${{ github.repository_owner }}
       - run: |
-          git diff --quiet && exit 0
+          git add -A; git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Update PR stats"
+          git add -A && git commit -m "Update PR stats"
           git push
