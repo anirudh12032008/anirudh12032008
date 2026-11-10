@@ -38,7 +38,7 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**59** PRs merged into **22** repos · **30** open right now
+**59** PRs merged into **22** repos · **32** open right now
 
 latest ones:
 - [mcu-tools/mcuboot#2940](https://github.com/mcu-tools/mcuboot/pull/2940) boot: bootutil: Don't fail direct-xip boot on one slot read error (2026-11-10)
