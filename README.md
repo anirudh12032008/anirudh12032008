@@ -38,14 +38,14 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**55** PRs merged into **22** repos · **32** open right now
+**58** PRs merged into **22** repos · **30** open right now
 
 latest ones:
+- [hathach/tinyusb#4401](https://github.com/hathach/tinyusb/pull/4401) cxd56: fix spresense bsp build and add it to the CI matrix (2026-11-09)
+- [hathach/tinyusb#4394](https://github.com/hathach/tinyusb/pull/4394) msc host: validate bNumEndpoints and endpoint bLength in msch_open (2026-11-09)
+- [hathach/tinyusb#4400](https://github.com/hathach/tinyusb/pull/4400) code-size: default diff base to origin/master (2026-11-09)
 - [steveicarus/iverilog#1724](https://github.com/steveicarus/iverilog/pull/1724) Support virtual methods (2026-11-08)
 - [ghdl/ghdl#3477](https://github.com/ghdl/ghdl/pull/3477) VPI: support VHDL records (vpiStructNet / vpiMember) (2026-11-08)
-- [nickg/nvc#1731](https://github.com/nickg/nvc/pull/1731) Fix crash with Verilog user function call or cast as system task argument (2026-11-07)
-- [steveicarus/iverilog#1715](https://github.com/steveicarus/iverilog/pull/1715) Support replication and nested braces in assignment patterns (2026-11-06)
-- [steveicarus/iverilog#1697](https://github.com/steveicarus/iverilog/pull/1697) Support passing a queue to a function (2026-11-06)
 
 <sub>updates by itself every few hours</sub>
 <!-- PRSTATS:END -->
