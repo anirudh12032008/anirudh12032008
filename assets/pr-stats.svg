@@ -4,7 +4,7 @@ text{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#24292f}
 @media (prefers-color-scheme:dark){text{fill:#e6edf3}.mut{fill:#8d96a0}.bg{fill:#0d1117;stroke:#30363d}}
 </style>
 <rect class="bg" x=".5" y=".5" width="599" height="189" rx="10"/>
-<text x="100" y="70" text-anchor="middle" font-size="40" font-weight="700">58</text><text class="mut" x="100" y="96" text-anchor="middle" font-size="14">PRs merged</text>
+<text x="100" y="70" text-anchor="middle" font-size="40" font-weight="700">59</text><text class="mut" x="100" y="96" text-anchor="middle" font-size="14">PRs merged</text>
 <text x="300" y="70" text-anchor="middle" font-size="40" font-weight="700">22</text><text class="mut" x="300" y="96" text-anchor="middle" font-size="14">repos</text>
 <text x="500" y="70" text-anchor="middle" font-size="40" font-weight="700">30</text><text class="mut" x="500" y="96" text-anchor="middle" font-size="14">open right now</text>
 <rect x="30.0" y="120" width="146.5" height="10" rx="2" fill="#2da44e"/>
