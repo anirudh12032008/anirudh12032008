@@ -38,14 +38,14 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**59** PRs merged into **22** repos · **32** open right now
+**60** PRs merged into **22** repos · **35** open right now
 
 latest ones:
+- [steveicarus/iverilog#1769](https://github.com/steveicarus/iverilog/pull/1769) Support $cast of class handles (2026-11-12)
 - [mcu-tools/mcuboot#2940](https://github.com/mcu-tools/mcuboot/pull/2940) boot: bootutil: Don't fail direct-xip boot on one slot read error (2026-11-10)
 - [hathach/tinyusb#4401](https://github.com/hathach/tinyusb/pull/4401) cxd56: fix spresense bsp build and add it to the CI matrix (2026-11-09)
 - [hathach/tinyusb#4394](https://github.com/hathach/tinyusb/pull/4394) msc host: validate bNumEndpoints and endpoint bLength in msch_open (2026-11-09)
 - [hathach/tinyusb#4400](https://github.com/hathach/tinyusb/pull/4400) code-size: default diff base to origin/master (2026-11-09)
-- [steveicarus/iverilog#1724](https://github.com/steveicarus/iverilog/pull/1724) Support virtual methods (2026-11-08)
 
 <sub>updates by itself every few hours</sub>
 <!-- PRSTATS:END -->
