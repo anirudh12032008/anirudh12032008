@@ -38,7 +38,7 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**60** PRs merged into **22** repos · **34** open right now
+**60** PRs merged into **22** repos · **38** open right now
 
 latest ones:
 - [steveicarus/iverilog#1769](https://github.com/steveicarus/iverilog/pull/1769) Support $cast of class handles (2026-11-12)

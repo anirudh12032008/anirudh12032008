@@ -6,7 +6,7 @@ text{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#24292f}
 <rect class="bg" x=".5" y=".5" width="599" height="189" rx="10"/>
 <text x="100" y="70" text-anchor="middle" font-size="40" font-weight="700">60</text><text class="mut" x="100" y="96" text-anchor="middle" font-size="14">PRs merged</text>
 <text x="300" y="70" text-anchor="middle" font-size="40" font-weight="700">22</text><text class="mut" x="300" y="96" text-anchor="middle" font-size="14">repos</text>
-<text x="500" y="70" text-anchor="middle" font-size="40" font-weight="700">34</text><text class="mut" x="500" y="96" text-anchor="middle" font-size="14">open right now</text>
+<text x="500" y="70" text-anchor="middle" font-size="40" font-weight="700">38</text><text class="mut" x="500" y="96" text-anchor="middle" font-size="14">open right now</text>
 <rect x="30.0" y="120" width="156.0" height="10" rx="2" fill="#2da44e"/>
 <rect x="188.0" y="120" width="90.2" height="10" rx="2" fill="#0969da"/>
 <rect x="280.2" y="120" width="90.2" height="10" rx="2" fill="#bf3989"/>
