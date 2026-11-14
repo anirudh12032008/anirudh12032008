@@ -5,9 +5,9 @@ text{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#24292f}
 </style>
 <rect class="bg" x=".5" y=".5" width="599" height="119" rx="10"/>
 <text x="30" y="32" font-size="14" font-weight="600">what I write the most</text>
-<rect x="30.0" y="46" width="241.7" height="10" rx="2" fill="#2da44e"/>
-<rect x="273.7" y="46" width="203.4" height="10" rx="2" fill="#0969da"/>
-<rect x="479.1" y="46" width="61.4" height="10" rx="2" fill="#bf3989"/>
+<rect x="30.0" y="46" width="241.9" height="10" rx="2" fill="#2da44e"/>
+<rect x="273.9" y="46" width="203.4" height="10" rx="2" fill="#0969da"/>
+<rect x="479.3" y="46" width="61.3" height="10" rx="2" fill="#bf3989"/>
 <rect x="542.5" y="46" width="5.7" height="10" rx="2" fill="#d4a72c"/>
 <rect x="550.2" y="46" width="3.5" height="10" rx="2" fill="#8250df"/>
 <rect x="555.7" y="46" width="3.1" height="10" rx="2" fill="#cf222e"/>

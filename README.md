@@ -38,14 +38,14 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**63** PRs merged into **22** repos · **35** open right now
+**65** PRs merged into **22** repos · **33** open right now
 
 latest ones:
+- [steveicarus/iverilog#1772](https://github.com/steveicarus/iverilog/pull/1772) Support ref arguments on tasks and functions (2026-11-14)
+- [steveicarus/iverilog#1770](https://github.com/steveicarus/iverilog/pull/1770) Support out-of-block definitions of extern class methods (2026-11-14)
 - [hathach/tinyusb#4516](https://github.com/hathach/tinyusb/pull/4516) msc host: fail the command when a CBW or CSW transfer fails or is short (2026-11-13)
 - [hathach/tinyusb#4486](https://github.com/hathach/tinyusb/pull/4486) fifo: keep overwritable fifo full and ordered on double overflow (2026-11-13)
 - [chipsalliance/chisel#5548](https://github.com/chipsalliance/chisel/pull/5548) [core] Reject domain association with subfields of wires (2026-11-13)
-- [steveicarus/iverilog#1769](https://github.com/steveicarus/iverilog/pull/1769) Support $cast of class handles (2026-11-12)
-- [mcu-tools/mcuboot#2940](https://github.com/mcu-tools/mcuboot/pull/2940) boot: bootutil: Don't fail direct-xip boot on one slot read error (2026-11-10)
 
 <sub>updates by itself every few hours</sub>
 <!-- PRSTATS:END -->
