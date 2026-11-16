@@ -38,14 +38,14 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**72** PRs merged into **22** repos · **37** open right now
+**74** PRs merged into **22** repos · **37** open right now
 
 latest ones:
+- [probe-rs/probe-rs#4706](https://github.com/probe-rs/probe-rs/pull/4706) Don't end the run loop when another core locks up (2026-11-16)
+- [steveicarus/iverilog#1806](https://github.com/steveicarus/iverilog/pull/1806) Static methods and static property writes through a class scope (2026-11-16)
 - [steveicarus/iverilog#1804](https://github.com/steveicarus/iverilog/pull/1804) Fix reference count of duplicated vvp objects (2026-11-16)
 - [steveicarus/iverilog#1797](https://github.com/steveicarus/iverilog/pull/1797) Report a one-element packed vector as a vector over VPI (2026-11-15)
 - [steveicarus/iverilog#1792](https://github.com/steveicarus/iverilog/pull/1792) Class scope resolution for parameterized classes (2026-11-15)
-- [steveicarus/iverilog#1777](https://github.com/steveicarus/iverilog/pull/1777) Support parameterized classes (2026-11-15)
-- [steveicarus/iverilog#1776](https://github.com/steveicarus/iverilog/pull/1776) Fix memory leak of ref argument slots in vvp (2026-11-14)
 
 <sub>updates by itself every few hours</sub>
 <!-- PRSTATS:END -->
