@@ -38,14 +38,14 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**71** PRs merged into **22** repos · **36** open right now
+**72** PRs merged into **22** repos · **37** open right now
 
 latest ones:
+- [steveicarus/iverilog#1804](https://github.com/steveicarus/iverilog/pull/1804) Fix reference count of duplicated vvp objects (2026-11-16)
 - [steveicarus/iverilog#1797](https://github.com/steveicarus/iverilog/pull/1797) Report a one-element packed vector as a vector over VPI (2026-11-15)
 - [steveicarus/iverilog#1792](https://github.com/steveicarus/iverilog/pull/1792) Class scope resolution for parameterized classes (2026-11-15)
 - [steveicarus/iverilog#1777](https://github.com/steveicarus/iverilog/pull/1777) Support parameterized classes (2026-11-15)
 - [steveicarus/iverilog#1776](https://github.com/steveicarus/iverilog/pull/1776) Fix memory leak of ref argument slots in vvp (2026-11-14)
-- [ghdl/ghdl#3489](https://github.com/ghdl/ghdl/pull/3489) grt-vpi: read VHDL generics through VPI (2026-11-14)
 
 <sub>updates by itself every few hours</sub>
 <!-- PRSTATS:END -->
