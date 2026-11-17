@@ -38,14 +38,14 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**75** PRs merged into **22** repos · **36** open right now
+**77** PRs merged into **22** repos · **41** open right now
 
 latest ones:
+- [steveicarus/iverilog#1816](https://github.com/steveicarus/iverilog/pull/1816) Support element access of queue and dynamic array class properties (2026-11-17)
+- [steveicarus/iverilog#1815](https://github.com/steveicarus/iverilog/pull/1815) Support typed assignment patterns (2026-11-17)
 - [steveicarus/iverilog#1809](https://github.com/steveicarus/iverilog/pull/1809) Support slices of queues and $ in queue indices (2026-11-16)
 - [probe-rs/probe-rs#4706](https://github.com/probe-rs/probe-rs/pull/4706) Don't end the run loop when another core locks up (2026-11-16)
 - [steveicarus/iverilog#1806](https://github.com/steveicarus/iverilog/pull/1806) Static methods and static property writes through a class scope (2026-11-16)
-- [steveicarus/iverilog#1804](https://github.com/steveicarus/iverilog/pull/1804) Fix reference count of duplicated vvp objects (2026-11-16)
-- [steveicarus/iverilog#1797](https://github.com/steveicarus/iverilog/pull/1797) Report a one-element packed vector as a vector over VPI (2026-11-15)
 
 <sub>updates by itself every few hours</sub>
 <!-- PRSTATS:END -->
