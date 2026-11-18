@@ -38,14 +38,14 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**77** PRs merged into **22** repos · **41** open right now
+**78** PRs merged into **22** repos · **40** open right now
 
 latest ones:
+- [ghdl/ghdl#3503](https://github.com/ghdl/ghdl/pull/3503) grt-vpi: add vpiLowConn and vpiHighConn for ports (2026-11-17)
 - [steveicarus/iverilog#1816](https://github.com/steveicarus/iverilog/pull/1816) Support element access of queue and dynamic array class properties (2026-11-17)
 - [steveicarus/iverilog#1815](https://github.com/steveicarus/iverilog/pull/1815) Support typed assignment patterns (2026-11-17)
 - [steveicarus/iverilog#1809](https://github.com/steveicarus/iverilog/pull/1809) Support slices of queues and $ in queue indices (2026-11-16)
 - [probe-rs/probe-rs#4706](https://github.com/probe-rs/probe-rs/pull/4706) Don't end the run loop when another core locks up (2026-11-16)
-- [steveicarus/iverilog#1806](https://github.com/steveicarus/iverilog/pull/1806) Static methods and static property writes through a class scope (2026-11-16)
 
 <sub>updates by itself every few hours</sub>
 <!-- PRSTATS:END -->
