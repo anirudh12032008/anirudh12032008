@@ -38,7 +38,7 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**80** PRs merged into **22** repos · **38** open right now
+**80** PRs merged into **22** repos · **37** open right now
 
 latest ones:
 - [steveicarus/iverilog#1819](https://github.com/steveicarus/iverilog/pull/1819) Copy queues and dynamic arrays assigned to class properties and in a shallow copy (2026-11-18)
