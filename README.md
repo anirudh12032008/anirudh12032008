@@ -38,7 +38,7 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**81** PRs merged into **23** repos · **37** open right now
+**81** PRs merged into **23** repos · **39** open right now
 
 latest ones:
 - [black-parrot/black-parrot#1391](https://github.com/black-parrot/black-parrot/pull/1391) Size the pmpaddr select by num_pmp (2026-11-20)
