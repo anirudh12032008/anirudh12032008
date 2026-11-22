@@ -38,14 +38,14 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**81** PRs merged into **23** repos · **39** open right now
+**85** PRs merged into **24** repos · **35** open right now
 
 latest ones:
+- [black-parrot/black-parrot#1392](https://github.com/black-parrot/black-parrot/pull/1392) Do not bypass the icache data read on a forced TL request (2026-11-21)
+- [black-parrot-sdk/bp-tests#57](https://github.com/black-parrot-sdk/bp-tests/pull/57) Add icache redirect stale-data regression (black-parrot#1390) (2026-11-21)
+- [black-parrot/black-parrot#1387](https://github.com/black-parrot/black-parrot/pull/1387) Fixing #1386 by raising an access fault for PTE PPNs wider than the physical address (2026-11-21)
+- [black-parrot-sdk/bp-tests#56](https://github.com/black-parrot-sdk/bp-tests/pull/56) Add PTE PPN out of bounds regression (black-parrot#1386) (2026-11-21)
 - [black-parrot/black-parrot#1391](https://github.com/black-parrot/black-parrot/pull/1391) Size the pmpaddr select by num_pmp (2026-11-20)
-- [steveicarus/iverilog#1819](https://github.com/steveicarus/iverilog/pull/1819) Copy queues and dynamic arrays assigned to class properties and in a shallow copy (2026-11-18)
-- [steveicarus/iverilog#1818](https://github.com/steveicarus/iverilog/pull/1818) elab: Fix output arguments with variable indexes in automatic task calls (2026-11-18)
-- [ghdl/ghdl#3503](https://github.com/ghdl/ghdl/pull/3503) grt-vpi: add vpiLowConn and vpiHighConn for ports (2026-11-17)
-- [steveicarus/iverilog#1816](https://github.com/steveicarus/iverilog/pull/1816) Support element access of queue and dynamic array class properties (2026-11-17)
 
 <sub>updates by itself every few hours</sub>
 <!-- PRSTATS:END -->
