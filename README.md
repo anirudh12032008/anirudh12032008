@@ -38,7 +38,7 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**85** PRs merged into **24** repos · **35** open right now
+**85** PRs merged into **24** repos · **39** open right now
 
 latest ones:
 - [black-parrot/black-parrot#1392](https://github.com/black-parrot/black-parrot/pull/1392) Do not bypass the icache data read on a forced TL request (2026-11-21)
