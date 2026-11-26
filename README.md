@@ -38,14 +38,14 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**85** PRs merged into **24** repos · **46** open right now
+**88** PRs merged into **26** repos · **56** open right now
 
 latest ones:
+- [trabucayre/openFPGALoader#779](https://github.com/trabucayre/openFPGALoader/pull/779) configBitstreamParser: fail on truncated gzip instead of looping forever (2026-11-26)
+- [trabucayre/openFPGALoader#781](https://github.com/trabucayre/openFPGALoader/pull/781) jedParser: do not read past the end of a fuse data line (2026-11-26)
+- [VHDL-LS/rust_hdl#540](https://github.com/VHDL-LS/rust_hdl/pull/540) fix(vhdl_lang): allow string literals as sub-aggregates of multi-dimensional arrays (2026-11-26)
 - [black-parrot/black-parrot#1392](https://github.com/black-parrot/black-parrot/pull/1392) Do not bypass the icache data read on a forced TL request (2026-11-21)
 - [black-parrot-sdk/bp-tests#57](https://github.com/black-parrot-sdk/bp-tests/pull/57) Add icache redirect stale-data regression (black-parrot#1390) (2026-11-21)
-- [black-parrot/black-parrot#1387](https://github.com/black-parrot/black-parrot/pull/1387) Fixing #1386 by raising an access fault for PTE PPNs wider than the physical address (2026-11-21)
-- [black-parrot-sdk/bp-tests#56](https://github.com/black-parrot-sdk/bp-tests/pull/56) Add PTE PPN out of bounds regression (black-parrot#1386) (2026-11-21)
-- [black-parrot/black-parrot#1391](https://github.com/black-parrot/black-parrot/pull/1391) Size the pmpaddr select by num_pmp (2026-11-20)
 
 <sub>updates by itself every few hours</sub>
 <!-- PRSTATS:END -->
