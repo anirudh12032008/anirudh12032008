@@ -38,14 +38,14 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**89** PRs merged into **26** repos · **60** open right now
+**90** PRs merged into **27** repos · **67** open right now
 
 latest ones:
+- [grame-cncm/faust#1430](https://github.com/grame-cncm/faust/pull/1430) route(): report an error for a negative number of inputs or outputs (2026-11-27)
 - [trabucayre/openFPGALoader#782](https://github.com/trabucayre/openFPGALoader/pull/782) mcsParser: return failure on an empty line (2026-11-26)
 - [trabucayre/openFPGALoader#779](https://github.com/trabucayre/openFPGALoader/pull/779) configBitstreamParser: fail on truncated gzip instead of looping forever (2026-11-26)
 - [trabucayre/openFPGALoader#781](https://github.com/trabucayre/openFPGALoader/pull/781) jedParser: do not read past the end of a fuse data line (2026-11-26)
 - [VHDL-LS/rust_hdl#540](https://github.com/VHDL-LS/rust_hdl/pull/540) fix(vhdl_lang): allow string literals as sub-aggregates of multi-dimensional arrays (2026-11-26)
-- [black-parrot/black-parrot#1392](https://github.com/black-parrot/black-parrot/pull/1392) Do not bypass the icache data read on a forced TL request (2026-11-21)
 
 <sub>updates by itself every few hours</sub>
 <!-- PRSTATS:END -->
