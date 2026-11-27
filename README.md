@@ -38,14 +38,14 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**90** PRs merged into **27** repos · **67** open right now
+**92** PRs merged into **28** repos · **65** open right now
 
 latest ones:
+- [wiedehopf/readsb#219](https://github.com/wiedehopf/readsb/pull/219) cpr: wrap the relative longitude after the range check (2026-11-27)
+- [veryl-lang/veryl#3692](https://github.com/veryl-lang/veryl/pull/3692) fix(simulator): evaluate the right operand of &&, || and ?: arms only when taken (2026-11-27)
 - [grame-cncm/faust#1430](https://github.com/grame-cncm/faust/pull/1430) route(): report an error for a negative number of inputs or outputs (2026-11-27)
 - [trabucayre/openFPGALoader#782](https://github.com/trabucayre/openFPGALoader/pull/782) mcsParser: return failure on an empty line (2026-11-26)
 - [trabucayre/openFPGALoader#779](https://github.com/trabucayre/openFPGALoader/pull/779) configBitstreamParser: fail on truncated gzip instead of looping forever (2026-11-26)
-- [trabucayre/openFPGALoader#781](https://github.com/trabucayre/openFPGALoader/pull/781) jedParser: do not read past the end of a fuse data line (2026-11-26)
-- [VHDL-LS/rust_hdl#540](https://github.com/VHDL-LS/rust_hdl/pull/540) fix(vhdl_lang): allow string literals as sub-aggregates of multi-dimensional arrays (2026-11-26)
 
 <sub>updates by itself every few hours</sub>
 <!-- PRSTATS:END -->
