@@ -38,7 +38,7 @@ lately that means going down to the low level stuff: verilog simulators, debug p
 
 ### some fixes that got merged
 <!-- PRSTATS:START -->
-**92** PRs merged into **28** repos · **65** open right now
+**92** PRs merged into **28** repos · **69** open right now
 
 latest ones:
 - [wiedehopf/readsb#219](https://github.com/wiedehopf/readsb/pull/219) cpr: wrap the relative longitude after the range check (2026-11-27)
